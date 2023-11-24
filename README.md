@@ -1,5 +1,6 @@
 
-###SALON
+### SALON
+
 ## I have created frontend Home page for salon using NuxtJS VueJS Vuetify Bootstrap and Tailwindcss:
 <h2>How it Looks:</h2> 
 
