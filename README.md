@@ -1,6 +1,6 @@
 
 ###SALON
-## i have created fronted for salon using NuxtJS VueJS Vuetify Bootstrap and Tailwindcss:
+## i have created frontend for salon using NuxtJS VueJS Vuetify Bootstrap and Tailwindcss:
 img1:
 ![image](https://github.com/shashwat993/salon/assets/108952343/7d8253af-e207-436b-89ba-54264d5d86da)
 
