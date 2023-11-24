@@ -2,6 +2,7 @@
 ###SALON
 ## I have created frontend Home page for salon using NuxtJS VueJS Vuetify Bootstrap and Tailwindcss:
 <h2>How it Looks:</h2> 
+
 ![](https://github.com/shashwat993/salon/blob/main/salongif.gif)
 
 <h2>Basic Funcnality</h2>
