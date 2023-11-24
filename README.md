@@ -1,8 +1,15 @@
 
 ###SALON
-## i have created frontend for salon using NuxtJS VueJS Vuetify Bootstrap and Tailwindcss:
-# How it Looks:
+## I have created frontend Home page for salon using NuxtJS VueJS Vuetify Bootstrap and Tailwindcss:
+<h2>How it Looks:</h2> 
 ![](https://github.com/shashwat993/salon/blob/main/salongif.gif)
+
+<h2>Basic Funcnality</h2>
+<ol>
+  <li>Use can select their location </li>
+  <li>User can select the expert</li>
+  <li>User can select the Paclage</li>
+</ol>
 
 
 
