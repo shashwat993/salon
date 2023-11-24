@@ -1,0 +1,51 @@
+.status-bar{
+    width: 375px;
+    height: 11px;
+    flex-shrink: 0;
+    position: absolute;
+    padding: 20px;
+    z-index: 1;
+    
+    
+}
+.ellipse{
+    position:absolute;
+
+}
+
+.hi-mia{
+    width: 375px;
+    height: 90px;
+    flex-shrink: 0;
+    position: absolute;
+    padding: 20px;
+    z-index: 1;
+
+}
+.hi-mia p{
+    color: #FFF;
+    font-family: DM Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100%; /* 16px */
+    letter-spacing: -0.092px;
+    margin-top: 25px;
+}
+.welcome{
+    width: 375px;
+    height: 300px;
+    flex-shrink: 0;
+    position: absolute;
+    padding: 20px;
+    color: #FFF;
+    font-family: DM Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100%; 
+    letter-spacing: -0.092px;
+    margin-top: 45px;
+    z-index: 1;
+
+}
