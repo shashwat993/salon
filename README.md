@@ -1,17 +1,9 @@
 
 ###SALON
 ## i have created frontend for salon using NuxtJS VueJS Vuetify Bootstrap and Tailwindcss:
-img1:
-![image](https://github.com/shashwat993/salon/assets/108952343/7d8253af-e207-436b-89ba-54264d5d86da)
+# How it Looks:
+![](https://github.com/shashwat993/salon/blob/main/salongif.gif)
 
-img2:
-![image](https://github.com/shashwat993/salon/assets/108952343/6db41d0f-fb73-4764-aeff-7db3709f48cb)
-
-img3:
-![image](https://github.com/shashwat993/salon/assets/108952343/c1f6337a-a8c8-4e74-b4c6-5b0d37d3edb7)
-
-img4:
-![image](https://github.com/shashwat993/salon/assets/108952343/0026e315-bf34-4804-92c8-e31b58374170)
 
 
 
